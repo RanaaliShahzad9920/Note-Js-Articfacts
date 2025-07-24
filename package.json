@@ -1,0 +1,11 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js Note Taking CLI App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ali Shahzad",
+  "license": "MIT"
+}
